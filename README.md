@@ -65,7 +65,9 @@ Perdón por la chapa :tired_face:
 | Jugar menos a World of Warcraft                                            | Estilo de vida más saludable: gym, leer, autodidácta.                                     |
 | Adquir buenas bases estos dos años y hacer un buen papel en las prácticas. | Ser un buen profesional.                                                                  |
 | Encontrar trabajo para las mañanas para generar algo de ingresos.          | Conseguir estabilidad lo antes posible (un primer empleo en el mundo de la informática).  |
-   
+
+Como bien dicen los Goblins en el WoW  [Escuchar el audio](ruta/del/audio.mp3):
+> "El tiempo es oro colega"
 </p>
 </details>
 
