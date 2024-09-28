@@ -68,7 +68,11 @@ Lo último, no es un hobbie, es mi pareja, pero la pongo en este apartado porque
 | Adquir buenas bases estos dos años y hacer un buen papel en las prácticas. | Ser un buen profesional.                                                                  |
 | Encontrar trabajo para las mañanas para generar algo de ingresos.          | Conseguir estabilidad lo antes posible (un primer empleo en el mundo de la informática).  |
 
-Como bien dicen los Goblins en el WoW  [Escuchar el audio](https://www.myinstants.com/es/instant/dame-mi-dinero-71306/?utm_source=copy&utm_medium=share):
+Como bien dicen los Goblins en el WoW 
+<audio controls>
+  <source src="https://raw.githubusercontent.com/usuario/repositorio/ruta_al_archivo/audio.mp3" type="audio/mpeg">
+</audio>
+: 
 > "El tiempo es oro colega"
 </p>
 </details>
