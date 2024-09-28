@@ -1,5 +1,5 @@
 # David Lara Martínez (1ºASIR)
-![]()
+![me]()
 ## Actividad README.md (Portafolios personal)
 
 <details><summary>Biografía</summary>
