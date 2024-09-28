@@ -2,7 +2,7 @@
 ![me](https://github.com/DavidLaraMartinez/1-ASIR/blob/main/WhatsApp%20Image%202023-03-01%20at%2018.38.56%20(4).jpeg?raw=true)
 ## Actividad README.md (Portafolios personal)
 
-<details><summary>Biografía</summary>
+<details><summary>Biografía :earth_africa: </summary>
 <p>
   
  Soy **David Lara Martínez**, nací en Córdoba hace 24 años (15/05/2000) . Vivo en el Sector Sur donde me crié y realizé la Educación Primaria, E.S.O y Bachillerato de Ciencias Sociales. 
@@ -37,9 +37,11 @@ Perdón por la chapa :tired_face:
 </p>
 </details>
 
-<details><summary>Hobbies</summary>
+<details><summary>Hobbies :space_invader: </summary>
 <p>
 
+![me](https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt550de4965b72a19e/60d38b911aa3190f6b80e14d/38841-1.png?imwidth=320&imdensity=2.625)
+ 
  En cuanto a mis hobbies, tengo un hermano 10 años mayor que yo, por lo que desde que soy pequeño he tenido a alguien que me enseñara a jugar a la Playstation 1, Gameboy Color, PC, etc. Él siempre ha sido muy casero y ha preferido jugar los videojuegos antes que salir de fiesta, al igual que yo. 
 
  Mi hermano, en su época jugaba [Counter Strike 1.6](https://www.counter-strike.net/), [League of Legends Season 2](https://www.leagueoflegends.com/es-es/), [World of Warcraft: Wrath of the Lich King](https://worldofwarcraft.blizzard.com/es-es/). Ya en su día cuando él no estaba en casa me metía en su cuenta del WoW para levearme un mago, tranquilamente, en aquel entonces jugaba solo ya que tenía 8-9 años y no me enteraba de nada. Puedo decir que el WoW es el juego que más horas le echado y le sigo echando con mucha diferencia al resto. En mi adolescencia, en la E.S.O, me alejé del PC porque era muy caro tener uno para mí y otro para mi hermano por lo que yo jugaba a la PS3 y PS4 con mis compañeros de clase, al CoD: Black Ops 2 y al FIFA recuerdo. Sin embargo, todo cambio en 1º Bachillerato donde me compraron mi primer PC gaming caro.
@@ -55,7 +57,7 @@ Lo último, no es un hobbie, es mi pareja, pero la pongo en este apartado porque
 </p>
 </details>
 
-<details><summary>Metas</summary>
+<details><summary>Metas :dart: </summary>
 <p>
 
  Mis metas son un poco exigentes por la edad que tengo, me meto mucha presión a mi mismo porque tengo 24 años y no tengo todavía un trabajo "digno" y me estoy reciclando, me siento un poco mal en ese aspecto conmigo mismo, por eso quiero dar lo mejor de mi en este curso y en las práctica de las empresas, para poder obtener el primer empleo lo antes posible.
@@ -66,7 +68,7 @@ Lo último, no es un hobbie, es mi pareja, pero la pongo en este apartado porque
 | Adquir buenas bases estos dos años y hacer un buen papel en las prácticas. | Ser un buen profesional.                                                                  |
 | Encontrar trabajo para las mañanas para generar algo de ingresos.          | Conseguir estabilidad lo antes posible (un primer empleo en el mundo de la informática).  |
 
-Como bien dicen los Goblins en el WoW  [Escuchar el audio](ruta/del/audio.mp3):
+Como bien dicen los Goblins en el WoW  [Escuchar el audio](https://www.myinstants.com/es/instant/dame-mi-dinero-71306/?utm_source=copy&utm_medium=share):
 > "El tiempo es oro colega"
 </p>
 </details>
