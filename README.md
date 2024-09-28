@@ -5,34 +5,34 @@
 <details><summary>Biografía :earth_africa: </summary>
 <p>
   
- Soy **David Lara Martínez**, nací en Córdoba hace 24 años (15/05/2000) . Vivo en el Sector Sur donde me crié y realizé la Educación Primaria, E.S.O y Bachillerato de Ciencias Sociales. 
+ Soy **David Lara Martínez**, nací en Córdoba hace 24 años (15/05/2000). Vivo en el Sector Sur, donde me crié y cursé la Educación Primaria, la E.S.O y el Bachillerato de Ciencias Sociales. 
 
- Siempre he sido muy responsable en los estudios para aprobar todo a la primera, menos matemáticas e inglés, que siempre fueron mis "**_talones de Aquiles_**". Esta dificultad por estas áreas, hizo que no me decantará por estudiar Bachillerato de Ciencias o una Ingienería Informática, a pesar de ser mi grandes hobbies, los PCs y los videojuegos. Por lo tanto, sin saber muy bien que estudiar tras Selectividad, elegí meterme en el Grado de Educación Primaria en la UCO, simplemente porque mi mejor amigo fue allí.
+ Siempre he sido muy responsable en los estudios, consiguiendo aprobar todo a la primera, excepto matemáticas e inglés, que siempre fueron mis "**_talones de Aquiles_**". Estas dificultades me hicieron renunciar estudiar un Bachillerato de Ciencias o una Ingeniería Informática, a pesar de que mis grandes aficiones siempre fueron los PCs y los videojuegos. Por lo tanto, sin saber muy bien qué estudiar tras Selectividad, elegí matricularme en el Grado de Educación Primaria en la UCO, simplemente porque mi mejor amigo fue allí.
 
- Pasaron los 4 años y sin mucha complejidad, me especializé en la mención de Educación Física, simplemente porque en ese momento tenía más salidas laborales dentro de las diferentes especializaciones de la docencia (_no era ni soy muy fan de hacer deporte, pero tenía que comer de algo_). Además, para obtener el título de Grado, necesitas sí o sí, tener el B1 de un idioma. Como mencioné antes el inglés no es mi fuerte para nada, por lo que opté obtenerlo por Aptis porque tenía fama de ser muy sencillo obtener la certificación B1, sin embargo, logré un B2 :top: .
+ Pasaron los 4 años y, sin mucha complejidad, me especialicé en la mención de Educación Física, simplemente porque en ese momento tenía más salidas laborales dentro de las diferentes especializaciones de la docencia (_no era ni soy muy fan de hacer deporte, pero tenía que comer de algo_). Además, para obtener el título de Grado, es obligatorio tener el B1 de un idioma. Como mencioné antes, el inglés nunca ha sido mi fuerte, así que opté por obtenerlo mediante Aptis, ya que tenía fama de ser sencillo conseguir la certificación B1. Sin embargo, logré un B2. :top: .
 
- Cuando vas terminando el Grado y una vez concluido, te das cuenta de la realidad de la docencia, que básicamente es opositar o trabajar en colegios concertados / privados (_que en su mayoría son de índole católica_) por lo que yo no tengo acceso a ellos puesto que requiere un curso especializado en religión (DECA).
+ Al finalizar el Grado, te das cuenta de la realidad de la docencia: básicamente es opositar o trabajar en colegios concertados / privados (_en su mayoría son de índole católica_) por lo que yo no tengo acceso a ellos puesto que requiere un curso especializado en religión (DECA).
 
- Debido a esto, mi objetivo durante el primer año tras terminar el Grado fue ganar puntos para la oposición y realizé el Máster en Neuropedagogía, Creatividad y Gestión de la Capacidad y el Talento. (_Donde conocí a mi actual pareja :heart:_), además del Máster, realicé varidad de cursos, para sumar más y más puntos, gastando más y más dinero. Spoiler: las oposicione son una estafa piramidal.
+ Debido a esto, mi objetivo durante el primer año tras terminar el Grado fue ganar puntos para la oposición, y realizé el Máster en Neuropedagogía, Creatividad y Gestión de la Capacidad y el Talento. (_donde conocí a mi actual pareja :heart:_). Además del Máster, hice varidad de cursos, para sumar más y más puntos, gastando más y más dinero. Spoiler: las oposiciones son una estafa piramidal.
 
- Y además, mientras trabajaba para ganar algo de dinero por primera vez para equilibrar los gastos. 
-
+ Y la par, trabajaba para ganar algo de dinero y equilibrar gastos. 
+ 
  Trabajé en:
 * Aulas matinales.
 * Comedores escolares.
 * Extraescolares.
   * Robótica.
   * Multideporte.
-  * Zumba _(durante un mes, no sé ni como conseguí el puesto)_.
+  * Zumba _(durante un mes, ni yo sé como conseguí ese puesto)_.
 * Escuela de verano.
 
- El año siguiente tras el máster, tras conseguir el máximo de puntos por méritos, era año de oposición. Por lo que me apunté a una academía para opositar por la especialidad de Educación Física porque tenía más salidas como mencioné antes. Fue un año duro, trabajando y estudiando un temario todo relacionado con deporte, condición física, etc. (_me costó más de lo normal porque no es un temario que me pasionara_), por otro lado, también había que preparar la defensa oral ante el tribunal. 
+ Al año siguiente, tras obtener el máximo de puntos por méritos, me apunté en una academia para preparar la oposición en la especialidad de Educación Física, porque tenía más salidas, como mencioné antes. Fue un año duro, trabajando y estudiando un temario todo relacionado con deporte, condición física, etc. (_me costó más de lo normal porque no es un temario que me apasione_). Además, también había que preparar la defensa oral ante el tribunal. 
 
- Preparé 20/25 temas, no me dió tiempo a todos porque los trabajos me quitaban mucho tiempo, para ser el primer año, creo que estaba bien llevar casi todos. Finalmente el 22 de junio fui a Huelva a examinarme. De 3 bolas (_una con cada tema_) solo salió una que me sabía, escogí esta, pero no salió muy bien la cosa y aprobé con un 5.3, pero a día de hoy, hay un embudo de interinos que es una locura y como no saques mínimo 9.5 o así no tienes oportunidad ni de que te llamen de bolsa, una auténtica barbaridad.
+ Preparé 20/25 temas, no me dio tiempo  de estudiar todos porque los trabajos me quitaban mucho tiempo. Para ser el primer año, creo que estaba bien llevar casi todos. Finalmente, el 22 de junio fui a Huelva a examinarme. De las 3 bolas que salieron en el sorteo, solo una correspondñia a un tema que me sabía. Escogí esa, pero no me fue muy bien la cosa y aprobé con un 5.3. A a día de hoy, hay un embudo de interinos que es una locura; si sacaas un mínimo de 9.5, ni siquiera tienes oportunidad de que te llamen de la bolsa, lo cual es una auténtica barbaridad.
 
- Tras este varapalo, y no muy ilusionado por dedicarme a la enseñanza y volver a repetir el proceso de oposición, una y otra vez, hasta conseguir con 35 años una plaza, busqué un grado superior de lo que me pasionaba, que era la informática, por ello, elegí DAW, DAM y ASIR, quería entrar en uno de los tres. A partir de aquí, tengo grandes expectativas porque conozco bastante gente de este sector como ahora contaré en la siguiente sección que me apoyaron en la decisión, creo que tengo bastante más posibilidad de empleo que seguir en la estafa de la oposición.
+ Tras este varapalo y sin mucha ilusión por continuar en la docencia y repetir el proceso de oposición una y otra vez  hasta conseguir una plaza con 35 años o más, decidí buscar un grado superior de lo que realmente me apasionaba: la informática. Por eso, elegí DAW, DAM o ASIR, quería entrar en uno de los tres. A partir de aquí, tengo grandes expectativas, ya que conozco bastante gente de este sector, como ahora contaré en la siguiente sección, que me apoyaron en la decisión. Creo que tengo muchas más posibilidades de empleo, o eso espero, en comparación a las oposiciones de maestro.
 
-Perdón por la chapa :tired_face:
+Perdón por la chapa. :tired_face:
 
 </p>
 </details>
