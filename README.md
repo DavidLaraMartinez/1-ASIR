@@ -52,7 +52,7 @@ Perdón por la chapa. :tired_face:
  
  Lo más importante de todo esto, lo que influyó en mi decisión de estudiar ASIR, es que todos estos amigos trabajan en áreas relacionadas con la informática: administradores de redes, programadores, ciberseguridad, etc. Tenemos de todo en nuestro grupo, lo cual me motiva, ya que tienen buenos empleos en este sector, y tengo una ayuda para cuando tenga cualquier tipo de duda. Además, mi cuñado también es ingeniero informático, por lo que estoy rodeado de informáticos. Hasta ahora, mi hermano y yo éramos los únicos del grupo que no trabájabamos ni estudiábamos algo relacionado con esto, pero eso ha cambiado.
 
- Otro de mis grandes hobbies es el fútbol, pero verlo, no jugarlo, que me canso. Soy socio del [Córdoba C.F](https://cordobacf.com/) desde hace 13 temporadas, y siempre voy con mi padre a ver los partidos.
+ Otro de mis grandes hobbies es el fútbol :soccer:, pero verlo, no jugarlo, que me canso. Soy socio del [Córdoba C.F](https://cordobacf.com/) desde hace 13 temporadas, y siempre voy con mi padre a ver los partidos.
 
  También tengo amigos fuera del Discord aquí en Córdoba. Los fines de seamna me gusta desconectar y salir a tomar algo de chill con ellos, echar unos dardos o un billar, etc. Eso sí, fiesta no, no soy nada fiestero, y además ni bebo ni fumo. Creo que me he tomado 5 cubatas en toda mi vida.
 
