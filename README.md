@@ -1,9 +1,11 @@
 # David Lara Martínez (1ºASIR)
-![me](https://github.com/DavidLaraMartinez/1-ASIR/blob/main/image01.jpeg?raw=true)
+
 ## Actividad README.md (Portafolios personal)
 
 <details><summary>Biografía :earth_africa: </summary>
 <p>
+
+![me](https://github.com/DavidLaraMartinez/1-ASIR/blob/main/image01.jpeg?raw=true)
   
  Soy **David Lara Martínez**, nací en Córdoba hace 24 años (15/05/2000). Vivo en el Sector Sur, donde me crié y cursé la Educación Primaria, la E.S.O y el Bachillerato de Ciencias Sociales. 
 
@@ -34,13 +36,15 @@
 
 Perdón por la chapa. :tired_face:
 
+![perdóngif](https://media.tenor.com/mCF8lQSD6D4AAAAj/sorry-stitch.gif)
+
 </p>
 </details>
 
 <details><summary>Hobbies :space_invader: </summary>
 <p>
 
-![me](https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt550de4965b72a19e/60d38b911aa3190f6b80e14d/38841-1.png?imwidth=320&imdensity=2.625)
+![wow](https://static.wikia.nocookie.net/wow/images/7/7d/WoWlogo.png/revision/latest?cb=20090510204154&path-prefix=es)
  
  En cuanto a mis hobbies, tengo un hermano 10 años mayor que yo, por lo que desde pequeño siempre tuve a alguien que me enseñara a jugar a la PlayStation 1, Gameboy Color, PC, etc.  Él siempre ha sido muy casero y ha preferido jugar videojuegos antes que salir de fiesta, al igual que yo. 
 
@@ -58,11 +62,15 @@ Perdón por la chapa. :tired_face:
 
  Por último, aunque no es un hobbie, está mi pareja. La menciono en este apartado porque también paso mucho tiempo con ella. Antes nos veíamos todos los días en el trabajo porque coincidíamos en el aula matinal, pero ahora estoy esperando que me llamen de ese colegio para las mañanas, ya que actualmente no tengo trabajo. Antes tenía trabajos fijos por las tardes, pero tuve que renunciar a ellos para poder estudiar ASIR. Ahora solo la veo los fines de semana.
 
+ ![wowgif](https://media4.giphy.com/media/TXTITOGUzF71ojctm5/giphy.gif)
+
 </p>
 </details>
 
 <details><summary>Metas :dart: </summary>
 <p>
+
+![inf](https://humanidades.com/wp-content/uploads/2018/12/sistema-informatico-1-e1585504699254.jpg)
 
  Mis metas son un poco exigentes para la edad que tengo. Me pongo mucha presión a mí mismo porque tengo 24 años y aún no tengo un trabajo "digno". Actualmente me estoy reciclando, y eso me hace sentir un poco mal conmigo mismo. Por eso, quiero dar lo mejor de mí en este curso y en las prácticas en las empresas, para poder obtener mi primer empleo lo antes posible.
 
@@ -74,6 +82,9 @@ Perdón por la chapa. :tired_face:
 
 Como bien dicen los Goblins en el WoW:
 > [~~"El tiempo es oro colega".~~](https://www.myinstants.com/es/instant/dame-mi-dinero-71306/)
+
+![goblingif](https://media1.giphy.com/media/1AISoIppa3sYmbFZY0/giphy.gif?cid=6c09b95252x0zda8uk6ve0tkgoi5k0h72u4o9n9ntwi7h4ov&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+
 </p>
 </details>
 
