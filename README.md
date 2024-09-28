@@ -1,5 +1,5 @@
 # David Lara Martínez (1ºASIR)
-![me](https://github.com/DavidLaraMartinez/1-ASIR/blob/main/WhatsApp%20Image%202023-03-01%20at%2018.38.56%20(4).jpeg?raw=true)
+![me](https://github.com/DavidLaraMartinez/1-ASIR/blob/main/image01.jpeg?raw=true)
 ## Actividad README.md (Portafolios personal)
 
 <details><summary>Biografía :earth_africa: </summary>
