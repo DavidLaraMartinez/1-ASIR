@@ -73,7 +73,7 @@ Perdón por la chapa. :tired_face:
 | Encontrar trabajo para las mañanas para generar algo de ingresos.          | Conseguir estabilidad lo antes posible (un primer empleo en el mundo de la informática).  |
 
 Como bien dicen los Goblins en el WoW:
-> ["El tiempo es oro colega"](https://www.myinstants.com/es/instant/dame-mi-dinero-71306/)
+> [~~"El tiempo es oro colega"~~](https://www.myinstants.com/es/instant/dame-mi-dinero-71306/)
 </p>
 </details>
 
