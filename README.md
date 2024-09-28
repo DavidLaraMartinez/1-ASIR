@@ -13,7 +13,7 @@
 
  Al finalizar el Grado, te das cuenta de la realidad de la docencia: básicamente es opositar o trabajar en colegios concertados / privados (_en su mayoría son de índole católica_) por lo que yo no tengo acceso a ellos puesto que requiere un curso especializado en religión (DECA).
 
- Debido a esto, mi objetivo durante el primer año tras terminar el Grado fue ganar puntos para la oposición, y realizé el Máster en Neuropedagogía, Creatividad y Gestión de la Capacidad y el Talento. (_donde conocí a mi actual pareja :heart:_). Además del Máster, hice varidad de cursos, para sumar más y más puntos, gastando más y más dinero. Spoiler: las oposiciones son una estafa piramidal.
+ Debido a esto, mi objetivo durante el primer año tras terminar el Grado fue ganar puntos para la oposición, y realizé el Máster en Neuropedagogía, Creatividad y Gestión de la Capacidad y el Talento (_donde conocí a mi actual pareja :heart:_). Además del Máster, hice varidad de cursos, para sumar más y más puntos, gastando más y más dinero. Spoiler: las oposiciones son una estafa piramidal.
 
  Y la par, trabajaba para ganar algo de dinero y equilibrar gastos. 
  
