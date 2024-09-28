@@ -60,7 +60,7 @@ Lo último, no es un hobbie, es mi pareja, pero la pongo en este apartado porque
 <details><summary>Metas :dart: </summary>
 <p>
 
- Mis metas son un poco exigentes por la edad que tengo, me meto mucha presión a mi mismo porque tengo 24 años y no tengo todavía un trabajo "digno" y me estoy reciclando, me siento un poco mal en ese aspecto conmigo mismo, por eso quiero dar lo mejor de mi en este curso y en las práctica de las empresas, para poder obtener el primer empleo lo antes posible.
+ Mis metas son un poco exigentes para la edad que tengo. Me pongo mucha presión a mí mismo porque tengo 24 años y aún no tengo un trabajo "digno". Actualmente me estoy reciclando, y eso me hace sentir un poco mal conmigo mismo. Por eso, quiero dar lo mejor de mí en este curso y en las prácticas en las empresas, para poder obtener mi primer empleo lo antes posible.
 
 | A corto plazo                                                              | A largo plazo                                                                             |
 |               ----------                                                   | ----------                                                                                |
@@ -68,12 +68,8 @@ Lo último, no es un hobbie, es mi pareja, pero la pongo en este apartado porque
 | Adquir buenas bases estos dos años y hacer un buen papel en las prácticas. | Ser un buen profesional.                                                                  |
 | Encontrar trabajo para las mañanas para generar algo de ingresos.          | Conseguir estabilidad lo antes posible (un primer empleo en el mundo de la informática).  |
 
-Como bien dicen los Goblins en el WoW 
-<audio controls>
-  <source src="https://raw.githubusercontent.com/usuario/repositorio/ruta_al_archivo/audio.mp3" type="audio/mpeg">
-</audio>
-: 
-> "El tiempo es oro colega"
+Como bien dicen los Goblins en el WoW:
+> ["El tiempo es oro colega"](https://www.myinstants.com/es/instant/dame-mi-dinero-71306/)
 </p>
 </details>
 
